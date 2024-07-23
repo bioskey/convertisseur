@@ -1,0 +1,3 @@
+- More languages (French & English minimum)
+- Use backend API
+- Add more devices

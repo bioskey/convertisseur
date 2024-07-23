@@ -1,0 +1,7 @@
+- Add unit tests
+- DRY on app.component.html
+- Use Currency Pipe
+- Use maybe replaySubject
+- Use Computed signals
+- Use LocalStorage
+- More intuitive IHM
